@@ -1,0 +1,4 @@
+openai>=1.0
+openai-agents>=0.0.17
+fastapi>=0.110
+uvicorn>=0.29
